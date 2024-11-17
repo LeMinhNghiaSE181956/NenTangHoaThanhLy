@@ -32,15 +32,18 @@ Welcome to the **Post-Event Flower Clearance Platform** – a modern solution to
 - **React Big Calendar**: Schedule and availability management.  
 
 ### Back-End  
-- **Firebase**: Secure and scalable authentication.  
-- **JWT (JSON Web Token)**: Robust session management.  
-- **Axios**: Seamless API integration.  
+- **Java**: Core language for backend development.  
+- **Spring Boot**: Simplifies development of robust backend services.  
+- **MySQL**: Database for storing user, transaction, and flower data.  
+- **JWT (JSON Web Token)**: Ensures secure user authentication.  
 
+### Tools  
+- **IntelliJ IDEA**: Development environment for the backend code.  
+- **Visual Studio Code**: Development environment for front-end code.  
 ### Database  
 - **MySQL**: Reliable and efficient data storage.  
 
-### Tools  
-- **Visual Studio Code**: Streamlined development environment.  
+
 
 ---
 
